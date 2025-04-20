@@ -1,0 +1,19 @@
+/* Override this file to customise the theme's CSS for your site */
+
+.post {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	/*padding-left: 1rem;
+	border-left: solid 2px var(--base03);*/
+	}
+	
+.post__summary {
+	padding-left: 1rem;
+	border-left: solid 2px var(--base03);
+	}
+	
+small.small {
+	color: var(--base03);
+	margin-bottom: .5rem;
+	display: block;
+	}
