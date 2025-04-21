@@ -1,20 +1,24 @@
 /* Override this file to customise the theme's CSS for your site */
 
+.block {
+	display: block;
+	}
+
 .post {
 	/*margin-top: 2rem;*/
-	margin-bottom: 2rem;
+	margin-bottom: 3rem;
 	transition: transform .2s;
 	/*padding-left: 1rem;
 	border-left: solid 2px var(--base03);*/
 	}
 	
-.post h1 span, .post .truncator {
+.post h2 span, .post .truncator {
 	transition: color .2s;
 	text-decoration: underline;
 	color: var(--base0D);
 }
 
-.post h1::before {
+.post h2::before {
 	transition: color .2s;
 }
 	
@@ -28,8 +32,14 @@
 	border-left-color: var(--hover);
 }
 
-.post:hover h1 span, .post:hover h1::before, .post:hover .truncator {
+.post:hover h2 span, .post:hover h2::before, .post:hover .truncator {
 	color: var(--hover);
+}
+
+
+.post__intro {
+	font-weight: bold;
+	margin-bottom: 1rem;
 }
 	
 small.small {
@@ -46,6 +56,21 @@ small.small {
 .article_link {
 	display: block;
 	text-decoration:none;
-	color: unset !important;
-	
+	color: unset !important;	
+}
+
+.aside_overview_links {
+	background: var(--link);
+	opacity: 0.90;
+	padding:0.25rem;
+	color: #fff !important;
+	text-decoration: none;
+  }
+  
+.aside_overview_links:hover {
+	background: var(--hover);
+}
+  
+.overview-container {
+	line-height: 2.25rem;
 }
