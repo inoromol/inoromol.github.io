@@ -6,8 +6,15 @@
     <description>Recent content on Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://inoromol.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://inoromol.github.io/about/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://inoromol.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;erster-absatz&#34;&gt;Erster Absatz&lt;/h2&gt;&#xA;&lt;p&gt;In Südostasien sind die achtgliedrigen (nicht die neungliedrigen, und auch nicht die sieben- oder sechsgliedrigen) Bambusstinkwanzen zu einer wahren Plage geworden. Mit ihren äußerst scharfen Beißwerkzeugen zerkleinern sie die Pflanzen, bis diese absterben. Die Wanzen versuchen, den für sie nur schwerverdaulichen Bambusbast zu verstoffwechseln, und scheitern kläglich daran. Unter konstanten Blähungen leidend sondern sie ein stinkendes Gas ab, dass ganze Landstriche unbewohnbar gemacht hat.&lt;/p&gt;&#xA;&lt;h2 id=&#34;zweiter-absatz&#34;&gt;Zweiter Absatz&lt;/h2&gt;&#xA;&lt;p&gt;Was hat das mit dem Blog zu tun? Nun ja, darum geht&amp;rsquo;s hier.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test2</title>
       <link>https://inoromol.github.io/posts/test2/</link>
