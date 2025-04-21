@@ -1,7 +1,7 @@
 /* Override this file to customise the theme's CSS for your site */
 
 .post {
-	margin-top: 2rem;
+	/*margin-top: 2rem;*/
 	margin-bottom: 2rem;
 	/*padding-left: 1rem;
 	border-left: solid 2px var(--base03);*/
@@ -17,3 +17,8 @@ small.small {
 	margin-bottom: .5rem;
 	display: block;
 	}
+	
+.advertisement {
+	border-top: solid 1px #333;
+	padding-top: 1rem;
+}
