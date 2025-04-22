@@ -49,7 +49,6 @@
     box-shadow: 0 0 0 1rem var(--off-bg);
     overflow-wrap: break-word;
     padding: 0 1rem;
-    text-align: justify;
 }
 
 .page__aside {
