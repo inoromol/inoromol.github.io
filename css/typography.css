@@ -11,11 +11,22 @@
     font-weight: bold;
 }
 
+@font-face {
+    font-family: 'Nun';
+    src: url('../fonts/Nunito-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: 'Qs';
+    src: url('../fonts/Quicksand-VariableFont_wght.ttf');
+}
+
 :root {
     /*--font-monospace: "Fira Mono", monospace;*/
     /*--font-monospace: "Liberation Mono", monospace;*/
-    --font-monospace: monospace;
-    --mainfont: "Cs", monospace;
+    --font-monospace: "Cs", monospace;
+    /*--mainfont: "Cs", monospace;*/
+    --mainfont: "Nun";
 }
 
 

@@ -40,6 +40,8 @@
 
 .page__nav {
     flex-grow: 1;
+    font-family: var(--font-monospace);
+    border-bottom: solid 2px var(--logo);
 }
 
 /* Body + aside */
