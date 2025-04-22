@@ -24,6 +24,7 @@
     }
     .page__aside {
     	position: sticky;
+    	max-height: 95vh;
     }
 }
 
@@ -47,6 +48,8 @@
     background-color: var(--off-bg);
     box-shadow: 0 0 0 1rem var(--off-bg);
     overflow-wrap: break-word;
+    padding: 0 1rem;
+    text-align: justify;
 }
 
 .page__aside {
@@ -55,7 +58,7 @@
     top: 1rem;
     right: 1rem;
     overflow-y: auto;
-    max-height: 95vh;
+    /*max-height: 95vh;*/
 }
 
 /* Footer */
