@@ -1,12 +1,30 @@
 /* Fonts */
+@font-face {
+    font-family: 'Cs';
+    src: url('../fonts/Cousine-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Csb';
+    src: url('../fonts/Cousine-Bold.ttf');
+    font-weight: bold;
+}
+
 :root {
     /*--font-monospace: "Fira Mono", monospace;*/
     /*--font-monospace: "Liberation Mono", monospace;*/
     --font-monospace: monospace;
+    --mainfont: "Cs", monospace;
 }
 
+
+
+
+
+
 body {
-    font-family: var(--font-monospace);
+    font-family: var(--mainfont);
     font-size: 16px;
     line-height: 1.5rem;
 }
@@ -21,6 +39,7 @@ h6 {
     font-size: 1rem;
     margin: 1.5rem 0 0 0;
     font-weight: bold;
+    color: var(--hn);
 }
 
 h1+h2,

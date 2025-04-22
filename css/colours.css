@@ -6,6 +6,7 @@
 
 	/* Text */
 	--fg: var(--base05);
+	--hn: var(--baseFF);
 	--off-fg: var(--base04);
 	--muted: var(--base03);
 	--link: var(--base0D);
