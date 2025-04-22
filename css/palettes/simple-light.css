@@ -1,0 +1,22 @@
+/* base16 default dark
+ * https://github.com/chriskempson/base16-default-schemes
+ */
+
+
+/* Tweaked to elevate h1, h2m, .. hn from text.
+Should move this into a new theme.
+*/
+:root {
+	--base00: #FFFFFF;
+	--base01: #FFFFFF;
+	--base02: #AFAFAF;
+	--base03: #282828;
+	--base04: #6F6F6F;
+	--base05: #585858;
+	--base0A: #f7ca88;
+	--base0B: #282828;
+	--base0C: #1b6b96;
+	--base0D: #4398c6;
+	--baseFF: #282828;
+	--base06: #F8F8F8;
+}

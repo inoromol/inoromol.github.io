@@ -5,13 +5,14 @@
 	--inner-bg: var(--base02);
 
 	/* Text */
-	--fg: var(--base05);
-	--hn: var(--baseFF);
+	--muted: var(--base02);
 	--off-fg: var(--base04);
-	--muted: var(--base03);
-	--link: var(--base0D);
-	--hover: var(--base0C);
+	--fg: var(--base05);
 	--highlight: var(--base0A);
+	--hover: var(--base0C);
+	--hover-post: var(--base06);
+	--link: var(--base0D);
+	--hn: var(--baseFF);
 
 	/* Logo */
 	--logo: var(--base0B);

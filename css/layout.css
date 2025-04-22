@@ -1,7 +1,7 @@
 /* 1rem = 16px by default */
 
 .page {
-    max-width: 64rem;
+    max-width: 60rem;
     margin: 1rem auto;
     display: grid;
     grid-template-areas:
@@ -20,7 +20,7 @@
           "body    aside"
           "footer  footer";
         grid-template-columns: minmax(0, 1fr) 15rem;
-        grid-column-gap: 2rem;
+        grid-column-gap: 2.4rem;
     }
     .page__aside {
     	position: sticky;
@@ -48,12 +48,10 @@
     background-color: var(--off-bg);
     box-shadow: 0 0 0 1rem var(--off-bg);
     overflow-wrap: break-word;
-    padding: 0 1rem;
 }
 
 .page__aside {
     grid-area: aside;
-    color: var(--off-fg);
     top: 1rem;
     right: 1rem;
     overflow-y: auto;
