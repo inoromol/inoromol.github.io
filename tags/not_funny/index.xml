@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Not_funny on Inors-Blog</title>
-    <link>http://localhost:1313/tags/not_funny/</link>
+    <link>https://inoromol.github.io/tags/not_funny/</link>
     <description>Recent content in Not_funny on Inors-Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/not_funny/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://inoromol.github.io/tags/not_funny/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test2</title>
-      <link>http://localhost:1313/posts/test2/</link>
+      <link>https://inoromol.github.io/posts/test2/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test2/</guid>
+      <guid>https://inoromol.github.io/posts/test2/</guid>
       <description>&lt;h2 id=&#34;test-2&#34;&gt;Test 2!&lt;/h2&gt;&#xA;&lt;p&gt;In einer Welt, in der die fliegenden Fische mit den tanzenden Bäumen um die Wette singen, gibt es einen geheimen Ort, an dem die Zeit stillsteht. Dort wachsen die bunten Wolken wie Zuckerwatte und die Sonnenstrahlen spielen Verstecken mit den schimmernden Regenbögen. Die Luft riecht nach frisch gebackenem Mondlicht, während die Sterne in harmonischen Melodien flüstern. Die Bewohner dieses magischen Reiches, die schüchternen Kängurus, tragen Hüte aus Pudding und veranstalten jeden Dienstag ein Wettrennen mit den schlafenden Schildkröten&lt;/p&gt;</description>
     </item>
     <item>
       <title>Giraffen mit Höhenangst</title>
-      <link>http://localhost:1313/posts/test3/</link>
+      <link>https://inoromol.github.io/posts/test3/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test3/</guid>
+      <guid>https://inoromol.github.io/posts/test3/</guid>
       <description>&lt;h2 id=&#34;ein-mann-eine-mission&#34;&gt;Ein Mann, eine Mission&lt;/h2&gt;&#xA;&lt;p&gt;In der Zwischenzeit, in einem Paralleluniversum, wo die Kühlschränke die besten Tänzer sind, wird der Kaffee von den philosophierenden Tassen zubereitet. Hier diskutieren die Kühlschränke über die Bedeutung des Lebens, während die Tassen mit ihren bunten Mustern die neuesten Modetrends präsentieren. Die Wände sind mit Geschichten von fliegenden Teppichen und singenden Steinen dekoriert, und die Luft ist erfüllt von der Melodie der tanzenden Limonade. An jedem Freitag findet ein großes Fest statt, bei dem die Wolken in verschiedenen Geschmacksrichtungen serviert werden und die Luft voller Freude und verrückter Ideen ist.&lt;/p&gt;</description>
     </item>
   </channel>
