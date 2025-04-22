@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://inoromol.github.io/about/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://inoromol.github.io/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/allgemein/</loc>
+    <loc>https://inoromol.github.io/categories/allgemein/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://inoromol.github.io/tags/blog/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://inoromol.github.io/categories/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/funny/</loc>
+    <loc>https://inoromol.github.io/tags/funny/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/intro/</loc>
+    <loc>https://inoromol.github.io/tags/intro/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/long/</loc>
+    <loc>https://inoromol.github.io/tags/long/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/not_funny/</loc>
+    <loc>https://inoromol.github.io/tags/not_funny/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://inoromol.github.io/posts/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://inoromol.github.io/tags/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
+    <loc>https://inoromol.github.io/tags/test/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test2/</loc>
+    <loc>https://inoromol.github.io/posts/test2/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test3/</loc>
+    <loc>https://inoromol.github.io/posts/test3/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/short/</loc>
+    <loc>https://inoromol.github.io/tags/short/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/a-new-blog/</loc>
+    <loc>https://inoromol.github.io/posts/a-new-blog/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/general/</loc>
+    <loc>https://inoromol.github.io/categories/general/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/news/</loc>
+    <loc>https://inoromol.github.io/tags/news/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://inoromol.github.io/series/</loc>
   </url>
 </urlset>
