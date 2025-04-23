@@ -21,12 +21,19 @@
     src: url('../fonts/Quicksand-VariableFont_wght.ttf');
 }
 
+@font-face {
+    font-family: 'Noto';
+    src: url('../fonts/NotoSans-VariableFont_wdth,wght.ttf');
+}
+
+
+
 :root {
     /*--font-monospace: "Fira Mono", monospace;*/
     /*--font-monospace: "Liberation Mono", monospace;*/
     --font-monospace: "Cs", monospace;
     /*--mainfont: "Cs", monospace;*/
-    --mainfont: "Nun";
+    --mainfont: "Noto", sans;
 }
 
 
