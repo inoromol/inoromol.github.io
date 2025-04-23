@@ -163,15 +163,18 @@ dl {
 /* Blockquotes */
 blockquote {
     position: relative;
-    margin: 0 0 1.5rem 1.5rem;
+    padding-left: 1.5rem;
+    border-left: solid 1px var(--muted);
 }
 
+/*
 blockquote::before {
     position: absolute;
     left: -1.5rem;
     content: ">";
     color: var(--muted);
 }
+*/
 
 .twitter-tweet::before {
     content: "\f099";
@@ -184,7 +187,7 @@ pre,
 code, 
 kbd,
 samp {
-    background: var(--inner-bg) !important;
+    background: var(--hover-post) !important;
     font-family: var(--font-monospace);
     color: var(--off-fg);
 }

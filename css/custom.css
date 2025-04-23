@@ -18,9 +18,15 @@
 	margin-bottom: 2rem;
 	transition: transform .2s, background-color .2s;
 	position: relative;
+	
 	/*padding-left: 1rem;
 	border-left: solid 2px var(--base03);*/
 	}
+	
+.post header, .post section {
+	position: relative;
+	z-index: 10;
+}
 	
 .post h2 span, .post .truncator {
 	transition: color .2s;
@@ -36,9 +42,29 @@
 	transition: border-left .2s;
 	}	
 	
+
+.post::before {
+	content: '';
+	position: absolute;
+	top: -.5rem;
+	left: -.5rem;
+	right: -.5rem;
+	bottom: -.5rem;
+	background-color: var(--hover-post);
+	opacity: 0;
+	transition: opacity .2s;
+	z-index: 0;
+}
+
+.post:hover::before {
+	opacity: 1;
+}
+	
+/*
 .post:hover {
 	background-color: var(--hover-post);
 }
+*/
 
 .post:hover .post__summary {
 	border-left-color: var(--hover);
@@ -211,6 +237,24 @@ a {
 }
 
 
+.post.pinned::before {
+	content: '';
+	position: absolute;
+	top: -.05rem;
+	left: -.05rem;
+	right: -.05rem;
+	bottom: -.05rem;
+	background-color: var(--hover-post);
+	opacity: 0;
+	transition: opacity .2s;
+	z-index: 0;
+}
+
+.post.pinned:hover::before{
+	opacity: 1;
+}
+
+
 .margin-bottom-1 {
 	margin-bottom: 1rem;
 }
@@ -277,6 +321,47 @@ small.small {
 body {
 	padding: 0 .2rem 0 .2rem;
 }
+
+blockquote {
+	position: relative;
+	margin: 1.5rem auto;
+	padding: 1rem;
+	border-left: solid 3px var(--logo09);
+	font-style: italic;
+	background-color: var(--hover-post);
+	width: 70%;
+}
+
+blockquote > p {
+	margin: 0;
+}
+
+pre,
+code, 
+kbd,
+samp {
+	margin: 1.5rem auto;
+	padding: 1rem;
+	width: 70%;
+}
+
+.align-middle {
+	display: inline-block;
+	margin-top: -4px;
+	vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
