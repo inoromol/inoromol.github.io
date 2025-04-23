@@ -211,6 +211,7 @@ a {
 
 span.post_title {
 	color: var(--link);
+	font-size: 16px; /* Weird small font size on mobile - why? */
 }
 
 
