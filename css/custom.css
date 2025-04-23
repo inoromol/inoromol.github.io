@@ -192,6 +192,13 @@ a {
 	font-size: 14px;
 }
 
+.post.pinned header {
+	flex-direction: row;
+}
+
+.post.pinned .date {
+	flex: 0 0 6rem;
+}
 
 .post.pinned.aside {
 	margin: 0 0 .8rem 0;
@@ -216,7 +223,7 @@ span.post_title {
 	}
 	
 	.post.pinned .date {
-		flex: 0 0 6rem;
+		flex: 0 0 6.5rem;
 	}
 	
 	.post header {
@@ -225,13 +232,18 @@ span.post_title {
 	}
 	
 	.post header span.date {
-		flex: 0 0 7rem;
+		flex: 0 0 6.5rem;
 	}
 	
 	.page__body::after {
 		display: none;
 	}
 	
+}
+
+.post .date {
+	color: var(--off-fg);
+	font-size: .875rem;
 }
 
 small.small {
@@ -246,11 +258,13 @@ small.small {
 }
 
 .advertisement {
-	border-top: solid 2px var(--logo);
+	border-top: solid 2px var(--logo09);
 	padding-top: 1rem;
 }
 
-
+body {
+	padding: .4rem;
+}
 
 
 

@@ -41,7 +41,7 @@
 .page__nav {
     flex-grow: 1;
     font-family: var(--font-monospace);
-    border-bottom: solid 2px var(--logo);
+    border-bottom: solid 2px var(--logo09);
 }
 
 /* Body + aside */

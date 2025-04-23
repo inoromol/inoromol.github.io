@@ -16,4 +16,6 @@
 
 	/* Logo */
 	--logo: var(--base0B);
+	/* Logo opacity: .9 */
+	--logo09: var(--base09);
 }
