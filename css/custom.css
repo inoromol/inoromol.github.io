@@ -178,6 +178,10 @@ a {
 	padding: 0;
 }
 
+.post header {
+	font-size: 16px;
+}
+
 .post header, .post.pinned.aside header {
 	display: flex;
 	flex-direction: column;	
@@ -211,7 +215,7 @@ a {
 
 span.post_title {
 	color: var(--link);
-	font-size: 16px; /* Weird small font size on mobile - why? */
+	font-size: 16px;
 }
 
 
@@ -233,7 +237,7 @@ span.post_title {
 	}
 	
 	.post header span.date {
-		flex: 0 0 6.5rem;
+		flex: 0 0 6rem;
 	}
 	
 	.page__body::after {
