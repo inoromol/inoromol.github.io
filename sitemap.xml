@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://inoromol.github.io/categories/allgemein/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inoromol.github.io/tags/blog/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inoromol.github.io/categories/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inoromol.github.io/posts/tp2/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inoromol.github.io/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inoromol.github.io/posts/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inoromol.github.io/tags/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inoromol.github.io/posts/test_post1/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inoromol.github.io/posts/test_post2/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://inoromol.github.io/about/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inoromol.github.io/categories/allgemein/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inoromol.github.io/tags/blog/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inoromol.github.io/categories/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://inoromol.github.io/tags/funny/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inoromol.github.io/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://inoromol.github.io/tags/intro/</loc>
@@ -27,12 +42,6 @@
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://inoromol.github.io/tags/not_funny/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inoromol.github.io/posts/</loc>
-    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inoromol.github.io/tags/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://inoromol.github.io/tags/test/</loc>
