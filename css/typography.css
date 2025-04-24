@@ -29,6 +29,7 @@
     --font-monospace: "Cs", monospace;
     /*--mainfont: "Cs", monospace;*/
     --mainfont: "Nun", sans;
+    --font-size: 16px;
 }
 
 
@@ -38,7 +39,7 @@
 
 body {
     font-family: var(--mainfont);
-    font-size: 16px;
+    font-size: var(--font-size);
     line-height: 1.5rem;
 }
 

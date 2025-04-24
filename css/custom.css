@@ -81,7 +81,8 @@
 }
 
 .post__intro #teaser {
-	font-weight: bold;
+	color: var(--almostblack);
+	margin-bottom: .5rem;
 }
 
 
@@ -267,11 +268,6 @@ a {
 
 span.post_title {
 	color: var(--link);
-	font-weight: bold;
-}
-
-.post .post_title {
-	font-size: 1.1rem;
 }
 
 
