@@ -5,6 +5,10 @@
 	--h2-margin-bottom: .3rem;
 }
 
+html {
+	font-size: 16px;
+}
+
 .block {
 	display: block;
 	}
