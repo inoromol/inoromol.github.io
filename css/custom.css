@@ -18,14 +18,51 @@
 	margin-bottom: 2rem;
 	transition: transform .2s, background-color .2s;
 	position: relative;
+	display: table;
+	width: 100%;
 	
 	/*padding-left: 1rem;
 	border-left: solid 2px var(--base03);*/
 	}
+
 	
 .post header, .post section {
 	position: relative;
 	z-index: 10;
+	display: table-row;
+}
+
+.post header div.date, .post header span.post_title, .post section.post__summary .placeholder, .post section.post__summary .post__intro {
+	display: table-cell;
+}
+
+
+.post {
+	display: table;
+}
+
+.post section.post__summary {
+	
+}
+
+.post section.post__summary .placeholder, .post header div.date {
+	width: 7.5rem;
+	max-width: 7.5rem;
+  	overflow: hidden;
+}
+
+.post section.post__summary .placeholder, .post header div.date span {
+	font-size: 12px;
+	color: var(--muted);
+	display: block;
+	position: absolute;
+	background-color: var(--hover-post);
+ 	padding: 0 .25rem;
+}
+
+.post section.post__summary .placeholder  span, .post header div.date span {
+	background-color: var(--hover-post);
+ 	padding: 0 .25rem;
 }
 	
 .post h2 span, .post .truncator {
@@ -105,6 +142,7 @@
 
 #post_entry #content_intro {
 	color: var(--hn);
+	font-weight: bold;
 }
 
 .page__body h1 {
@@ -140,7 +178,7 @@
 	padding:0.25rem;
 	color: #fff !important;
 	text-decoration: none;
-	font-size: 14px;
+	font-size: 12px;
 	white-space: nowrap;
   }
   
@@ -222,7 +260,7 @@ a {
 	flex-direction: column;	
 }
 
-.post header span.date, .post.pinned.aside header span.date {
+.post header div.date, .post.pinned.aside header span.date {
 	flex: 0 0 0rem;
 }
 
@@ -236,7 +274,7 @@ a {
 }
 
 .post.pinned .date {
-	flex: 0 0 7rem;
+	flex: 0 0 7.5rem;
 }
 
 .post.pinned.aside {
@@ -280,7 +318,7 @@ span.post_title {
 	}
 	
 	.post.pinned .date {
-		flex: 0 0 7rem;
+		flex: 0 0 7.5rem;
 		margin: 0;
 	}
 	
@@ -289,13 +327,13 @@ span.post_title {
 		justify-content: flex-start;
 	}
 	
-	.post header span.date {
+	.post header div.date {
 		flex: 0 0 6rem;
 	}
 	
 	.post header .date {
 		display: inline-block;
-		margin-right: .5rem;
+		margin-right: 1rem;
 	}
 	
 	.page__body::after {
@@ -314,6 +352,7 @@ small.small {
 	margin-bottom: .5rem;
 	display: block;
 	margin-top: -2px;
+	font-size: .75rem;
 	}
 
 #welcome {
@@ -388,20 +427,6 @@ ul.pagination.pagination-default {
 ul.pagination.pagination-default li {
 	display: inline;
 }
-
-.post_category {
-	font-size: .75rem;
-	color: var(--muted);
-	display: block;
-}
-
-.post_category::before {
-	content: 'Thema: ';
-}
-
-
-
-
 
 
 
