@@ -213,6 +213,7 @@ a {
 
 .post header .date {
 	display: block;
+	color: var(--almostblack);
 }
 
 
@@ -295,7 +296,6 @@ span.post_title {
 	.post header .date {
 		display: inline-block;
 		margin-right: .5rem;
-		color: var(--almostblack);
 	}
 	
 	.page__body::after {
