@@ -82,7 +82,6 @@
 
 .post__intro #teaser {
 	color: var(--almostblack);
-	margin-bottom: .5rem;
 }
 
 
@@ -280,7 +279,7 @@ span.post_title {
 	}
 	
 	.post.pinned .date {
-		flex: 0 0 6.5rem;
+		flex: 0 0 7rem;
 		margin: 0;
 	}
 	
