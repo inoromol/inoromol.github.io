@@ -80,6 +80,10 @@
 	/*font-size: .875rem;*/
 }
 
+.post__intro #teaser {
+	font-weight: bold;
+}
+
 
 .page__body::after {
 	display: block;
@@ -221,7 +225,7 @@ a {
 	flex: 0 0 0rem;
 }
 
-.post.pinned {
+.post.pinned, .post.pinned .post_title {
 	margin: 0;
 	font-size: 14px;
 }
@@ -263,6 +267,11 @@ a {
 
 span.post_title {
 	color: var(--link);
+	font-weight: bold;
+}
+
+.post .post_title {
+	font-size: 1.1rem;
 }
 
 
@@ -384,9 +393,15 @@ ul.pagination.pagination-default li {
 	display: inline;
 }
 
+.post_category {
+	font-size: .75rem;
+	color: var(--muted);
+	display: block;
+}
 
-
-
+.post_category::before {
+	content: 'Thema: ';
+}
 
 
 
