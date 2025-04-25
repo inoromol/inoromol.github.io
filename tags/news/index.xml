@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Inors-Blog</title>
+    <link>https://inoromol.github.io/tags/news/</link>
+    <description>Recent content in News on Inors-Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://inoromol.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Blog</title>
+      <link>https://inoromol.github.io/posts/a-new-blog/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://inoromol.github.io/posts/a-new-blog/</guid>
+      <description>&lt;h2 id=&#34;ein-neuer-anfang&#34;&gt;Ein neuer Anfang&lt;/h2&gt;&#xA;&lt;p&gt;Ein neuer Blog entsteht. Zunächst muss das Theme etwas angepasst werden, damit ich es mag. Danach kann ich mich dann um den Content kümmern, von dem ich noch nicht weiß, wie er sich gestalten wird.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
