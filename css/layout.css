@@ -3,7 +3,6 @@
 .page {
     max-width: 55rem;
     margin: 1rem auto;
-    display: grid;
     grid-template-areas:
       "header"
       "body"
