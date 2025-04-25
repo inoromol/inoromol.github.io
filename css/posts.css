@@ -49,8 +49,6 @@
 }
 
 section.page__body .content__header {
-	
-	grid-template-columns: .5rem auto .5rem;
 	margin-bottom: .5rem;
 	
 }
