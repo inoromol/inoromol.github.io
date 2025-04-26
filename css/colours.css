@@ -1,0 +1,22 @@
+:root {
+	/* Background */
+	--bg: var(--base00);
+	--off-bg: var(--base01);
+	--inner-bg: var(--base02);
+
+	--almostblack: var(--base03);
+	/* Text */
+	--muted: var(--base02);
+	--off-fg: var(--base04);
+	--fg: var(--base05);
+	--highlight: var(--base0A);
+	--hover: var(--base0C);
+	--hover-post: var(--base06);
+	--link: var(--base0D);
+	--hn: var(--baseFF);
+
+	/* Logo */
+	--logo: var(--base0B);
+	/* Logo opacity: .9 */
+	--logo09: var(--base02);
+}
