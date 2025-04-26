@@ -1,13 +1,13 @@
 /* Fonts */
 @font-face {
-    font-family: 'main';
+    font-family: 'dmm';
     src: url('../fonts/DMMono-Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'lexendd';
+    font-family: 'main';
     src: url('../fonts/LexendDeca.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
