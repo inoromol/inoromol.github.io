@@ -1,15 +1,12 @@
-.post {
-	grid-template-columns: 8.5rem 1fr;
-}
-
 .datecat,
 .post-content {
 	position: relative;
 	z-index: 10;
 }
 
-.datecat {
-	width: 7.5rem;
+.datecat,
+.pinned-date {
+	width: 6.5rem;
 	padding: 0;
 }
 
@@ -22,10 +19,6 @@
 	padding: 0;
 	position: relative;
 	z-index: 10;
-}
-
-.pinned-date {
-	width: 7.5rem;
 }
 
 .post header,
