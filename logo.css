@@ -1,0 +1,37 @@
+.page__logo {
+    padding: 0;
+    margin: 0;
+    font-weight: inherit;
+    color: var(--bg);
+}
+
+.page__logo:before {
+    content: none;
+}
+
+.page__logo-inner {
+    display: block;
+    background: var(--link);
+    padding: 0.25rem;
+}
+
+a.page__logo-inner:link, a.page__logo-inner:visited {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.main-nav li:hover,
+.main-nav li:hover a.page__logo-inner,
+a.page__logo-inner:active {
+    background-color: var(--hover);
+    border-bottom-color: var(--hover);
+}
+.page__logo-inner:before {
+    content: "[";
+    color: var(--bg);
+}
+
+.page__logo-inner:after {
+    content: "~]$";
+    color: var(--bg);
+}
