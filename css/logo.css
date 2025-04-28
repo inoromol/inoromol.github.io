@@ -12,7 +12,6 @@
 .page__logo-inner {
     display: block;
     background: var(--link);
-    opacity: 0.90;
     padding: 0.25rem;
 }
 
@@ -21,11 +20,12 @@ a.page__logo-inner:link, a.page__logo-inner:visited {
     text-decoration: inherit;
 }
 
-a.page__logo-inner:hover,
+.main-nav li:hover,
+.main-nav li:hover a.page__logo-inner,
 a.page__logo-inner:active {
-    opacity: 1;
+    background-color: var(--hover);
+    border-bottom-color: var(--hover);
 }
-
 .page__logo-inner:before {
     content: "[";
     color: var(--bg);
